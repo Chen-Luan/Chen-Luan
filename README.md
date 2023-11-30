@@ -3,6 +3,11 @@
 这里是晨峦，很高兴认识您！
 
 <!--
+这是一个个人资料仓库，其他人对此仓库的编辑操作将不受欢迎。
+如果您看到了这行字，请您尽快退出编辑界面和（或）删除您的 Fork，感谢您的理解。
+-->
+
+<!--
 **Chen-Luan/Chen-Luan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
