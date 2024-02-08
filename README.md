@@ -1,13 +1,21 @@
+<!--
+这是一个个人资料仓库，其他人对此仓库的编辑操作将不受欢迎。
+如果您看到了这行字，请您尽快退出编辑界面和（或）删除您的 Fork，感谢您的理解。
+-->
+
+
 ### 你好呀
 
 何以为星，何以为辰？天地方寸，芸芸众生。
 
 个人站点：https://chen-luan.github.io/
 
-<!--
-这是一个个人资料仓库，其他人对此仓库的编辑操作将不受欢迎。
-如果您看到了这行字，请您尽快退出编辑界面和（或）删除您的 Fork，感谢您的理解。
--->
+---
+
+
+| ![Chen-Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-Luan&count_private=true&theme=gruvbox) | ·<br><br><br>O<br><br><br>· |
+| --- | --- |
+
 
 <!--
 **Chen-Luan/Chen-Luan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
