@@ -12,8 +12,7 @@
 
 ---
 
-
-| ![Chen-Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-Luan&count_private=true&theme=gruvbox) | ·<br><br><br>O<br><br><br>· |
+| ![Chen-Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-Luan&count_private=true&theme=gruvbox&show_icons=true) | ·<br><br><br>O<br><br><br>· |
 | --- | --- |
 
 
