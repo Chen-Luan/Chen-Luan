@@ -10,8 +10,6 @@
 
 业余游戏制作人兼游戏策划兼翻译员。
 
-个人站点：https://chen-luan.github.io/
-
 ---
 
 I am an English-to-Chinese translator out of personal interest.
