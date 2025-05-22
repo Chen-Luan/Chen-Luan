@@ -20,13 +20,13 @@ Are you looking for Chinese translation for your project? Feel free to [contact 
 
 - I typically provide translated files in .json or similar formats. I am happy to provide free translation services for open-source or newly established projects. I use this work to promote myself, so my services are generally free. For larger translation volumes, you might consider offering a small tip.
 
-- My translation work is licensed under the CC0 license, which means you are free to use, modify, or adapt it for any purpose, including commercial use, without any restrictions!
-
 My translation contributions history:
 
 - [AgriCraft](https://github.com/AgriCraft/AgriCraft/pull/1497/files)
 
 - [bloop](https://github.com/BloopAI/bloop/pull/1262/files)
+
+- [Anki-Android](https://github.com/ankidroid/Anki-Android/pull/18296/files#diff-015c2cbfb9f27443f0b3e0b9af98cd459b0ba2358d8c4504fb3c91f9fc5d4a8e)
 
 ---
 
