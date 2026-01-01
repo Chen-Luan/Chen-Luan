@@ -28,10 +28,6 @@ My translation contributions history:
 
 - [Anki-Android](https://github.com/ankidroid/Anki-Android/pull/18296/files#diff-015c2cbfb9f27443f0b3e0b9af98cd459b0ba2358d8c4504fb3c91f9fc5d4a8e)
 
----
-
-| ![Chen-Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-Luan&count_private=true&theme=gruvbox&show_icons=true&show=reviews) | ·<br><br><br>O<br><br><br>· |
-| --- | --- |
 
 
 <!--
